@@ -1,0 +1,14 @@
+ .search_height .mint-search-list{
+	height: 0px;
+	padding: 0px;
+}
+.search_height .mint-searchbar-inner{
+	height: .8rem;
+}
+.search_height .mint-searchbar{
+	padding:.1rem .1rem;
+	/*height: 1.2rem;*/
+}
+/*.jkda .header-wrap .mint-searchbar{
+	height: 1.2rem;
+}*/

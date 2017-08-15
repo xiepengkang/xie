@@ -1,0 +1,59 @@
+/*to zbl_qyxq.vue*/
+.mint-field .mint-cell-value input {
+    text-align: right;
+    margin-right: .5rem;
+}
+
+/*to zbl_qyxq_searchdoct.vue*/
+.mint-search .mint-searchbar {
+    background-color: #00CDFF;
+    padding: 6px 8px 6px 30px;
+}
+.mint-search .mint-searchbar .mint-searchbar-cancel {
+    font-size: .3rem;
+    color:#fff;
+}
+.mint-search .mint-searchbar .mint-searchbar-core {
+    padding-left: .2rem;
+    font-size: .25rem;
+}
+.mint-search .mint-searchbar i.mintui-search {
+    font-size: .4rem;
+}
+
+/*to zbl_qyxq_hometown.vue*/
+.mint-cell-wrapper {
+    position: relative;
+}
+.mint-cell-wrapper .provinceCity {
+    position: absolute;
+    left: .3rem;
+}
+/*.mint-cell-wrapper #area {
+    position: absolute;
+    left: .2rem;
+    top: 0;
+}*/
+
+/*.mint-cell-value {
+    display: block;
+    text-align: right;
+}
+.mint-cell-text {
+    white-space: nowrap;
+}*/
+
+.szArea .mint-cell-value span {
+    position: absolute;
+    left: 10px;
+}
+/*to zbl_qyxq_searchdoct.vue*/
+.mint-search-list {
+    overflow: auto;
+    padding-top: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    position: relative;
+}
